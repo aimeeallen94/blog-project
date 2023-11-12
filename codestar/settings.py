@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'codestar-django-blog-aimee-5050a4b8730a.herokuapp.com'
+    'codestar-django-blog-aimee-5050a4b8730a.herokuapp.com',
     '8000-aimeeallen9-blogproject-0sm6b6vsf1k.ws-eu106.gitpod.io',
     'codestar-django-blog-aimee.herokuapp.com',
     'localhost'
